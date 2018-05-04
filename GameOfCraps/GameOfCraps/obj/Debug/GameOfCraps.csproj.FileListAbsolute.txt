@@ -1,0 +1,17 @@
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\bin\Debug\GameOfCraps.exe.config
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\bin\Debug\GameOfCraps.exe
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\bin\Debug\GameOfCraps.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.csprojResolveAssemblyReference.cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\MainWindow.g.cs
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\App.g.cs
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps_MarkupCompile.cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps_MarkupCompile.lref
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\MainWindow.baml
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.g.resources
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.Properties.Resources.resources
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.csproj.GenerateResource.Cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.exe
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\GameOfCraps.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\App.baml
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\InputBet.g.cs
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment4\GameOfCraps\GameOfCraps\obj\Debug\InputBet.baml
